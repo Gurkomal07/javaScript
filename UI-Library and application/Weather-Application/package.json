@@ -1,0 +1,23 @@
+{
+  "name": "assignment_1",
+  "version": "1.0.0",
+  "description": "weather_report",
+  "main": "index.js",
+  "source": "index.html",
+  "scripts": {
+    "test": "running",
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [
+    "assignment_running"
+  ],
+  "author": "Gurkomal Singh",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.2.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}

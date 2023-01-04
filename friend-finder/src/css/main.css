@@ -1,0 +1,66 @@
+.friend>.bio {
+	clear: both;
+	padding-top: 1rem;
+}
+
+.friend>.identity {
+	display: flex;
+	margin-top: 1rem;
+}
+
+.friend>.identity>img  {
+	border-radius: 50%;
+	margin-right: 3rem;
+}
+
+.friend>.identity>ul {
+	list-style: none
+}
+
+.friend>.identity>div>ul>li {
+	font-size: 1.5rem;
+}
+
+.friend>.identity>div>ul>li>.label {
+	font-weight: bold;
+}
+
+.friend>.identity>div>h2 {
+	font-weight: bold;
+	font-size: 3rem;
+}
+
+.flex-container {
+	display: flex;
+}
+
+.wide-container {
+	border: 1px solid  gray;
+	padding: 1.5rem;
+	width: 50rem;
+}
+
+.wide-container li:first-of-type {
+	font-size: 3rem;
+	font-weight: bold;
+	padding-left: 1rem;
+}
+
+.wide-container li {
+	font-size: 1.2rem;
+}
+
+span {
+	font-weight: bold;
+	padding-left: 1rem;
+}
+
+.wide-container p {
+	font-size: 1rem;
+	padding-top: .8rem;
+}
+
+img {
+	border-radius: 50%;
+}
+
